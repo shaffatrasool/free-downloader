@@ -1,0 +1,17 @@
+{
+  "name": "Free Downloader - All Video & Audio Downloader",
+  "short_name": "FreeDownloader",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0f17",
+  "theme_color": "#12141c",
+  "description": "Free all-in-one social media video and audio downloader.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64 128x128 256x256",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

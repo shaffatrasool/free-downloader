@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/download
+Disallow: /api/progress/
+Disallow: /api/cancel/
+
+Sitemap: http://localhost:3000/sitemap.xml
